@@ -9,4 +9,4 @@ Below topics can be considered for cost optimisations
       a. Public IP
       b. Managed Disks
       c. Snapshot
-7. Deallocate VM during Off hours
+6. Deallocate VM during Off hours
