@@ -10,3 +10,5 @@ Below topics can be considered for cost optimisations
       b. Managed Disks
       c. Snapshot
 6. Deallocate VM during Off hours
+7. Azure Advisor
+8. 
