@@ -14,4 +14,12 @@ Below topics can be considered for cost optimisations
 8. Pay As you Go vs Enterprise agreement Discount
 9. Budget and Cost Alerts
 10. Azure Cost Management
-11. 
+11. Use of vmss based on application
+12. Use of Dev /Test Labs - for practice
+13. Dev Test subscription for Dev env
+14. Shareable services and elastic pools example app service plan, sql
+15. VM Size standardisation within an organization
+16. Storage reservations
+17. Location - opt for lower cost location
+18. Governance - based on policy, Tags, lock we can governe the cost
+19. 
