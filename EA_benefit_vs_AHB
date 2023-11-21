@@ -1,0 +1,52 @@
+What is the difference between EA benefit vs AHB (Azure Hybrid Benefit)?
+
+
+
+The EA (Enterprise Agreement) benefit is only available to companies who sign an Enterprise agreement with Microsoft, it typically involves a usage commitment for Azure resources. The higher the commitment, the better the EA discounts.
+
+PayG or other contract types do not have this type of discount, but may have other smaller discounts.
+
+
+
+Azure Hybrid Benefit is a "Licensing" benefit. AHB lets you bring your existing on-premises Windows Server and SQL Server licenses with active Software Assurance or subscriptions to Azure.
+
+
+
+AHB benefit is applicable for software license cost portion of a VM's cost (Windows, SQL license). The compute cost of a VM is not reduced.
+
+Recently, Microsoft made this benefit available to RedHat and SUSE Linux subscription as well.
+
+
+
+How it applies:
+
+Each two-processor license or each set of 16-core licenses, either Datacenter or Standard editions, are entitled to two instances of up to 8 cores or one instance of up to 16 cores.
+
+Datacenter edition licenses allow for simultaneous usage on-premises and in Azure.
+
+Standard edition licenses must be used either on-premises or in Azure—you will get 180 days of concurrent use rights while migrating servers.
+
+
+
+Which Microsoft licenses are eligible for Azure Hybrid Benefit?
+
+SQL Server and Windows Server licenses with active Software Assurance or qualifying subscription licenses. These include:
+
+Windows Server Datacenter edition with Software Assurance.
+
+Windows Server Standard edition with Software Assurance.
+
+SQL Server Enterprise Edition core licenses with Software Assurance or qualifying subscription licenses.
+
+SQL Server Standard Edition core licenses with Software Assurance or qualifying subscription licenses.
+
+
+
+For more info on AHB:
+
+Azure Hybrid Benefit FAQ | Microsoft Azure
+
+Azure Hybrid Benefit—hybrid cloud | Microsoft Azure
+
+
+
