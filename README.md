@@ -22,4 +22,7 @@ Below topics can be considered for cost optimisations
 16. Storage reservations
 17. Location - opt for lower cost location
 18. Governance - based on policy, Tags, lock we can governe the cost
-19. 
+19. choose PAAS services like, App service, SQL service, and Storage account
+20. Using Serverless - Azure function, logic apps, 
+21. Azure SPOT VM - for batch processing, Application should be able to handle unhandled desruption
+22. 
