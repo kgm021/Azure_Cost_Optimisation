@@ -29,4 +29,6 @@ Below topics can be considered for cost optimisations
 23. Change storage Type when not used
 24. Optimizing software lincencing costs
 25. Ephemeral OS Disk
-26. 
+26. Effective Use of temp drive
+27. Free Automation / Azure devops (free minute to run automation)
+28. Individual virtual desktop instead of individual VM's
