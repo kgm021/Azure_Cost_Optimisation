@@ -26,4 +26,4 @@ Below topics can be considered for cost optimisations
 20. Using Serverless - Azure function, logic apps, 
 21. Azure SPOT VM - for batch processing, Application should be able to handle unhandled desruption
 22. Custome autoscaling logic - Start small, only scale when required
-23. 
+23. Change storage Type when not used
