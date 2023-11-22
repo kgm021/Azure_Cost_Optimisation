@@ -1,0 +1,33 @@
+NEW [Nov-20]: Optimize costs by automating Azure Blob Storage access tiers
+Optimize costs by automating Azure Blob Storage access tiers
+
+
+
+Microsoft recently released a feature that lets you save on storage costs by automatically archiving of old data.
+
+Azure Blob Storage lifecycle management policy offers the ability to move
+
+blobs, blob versions, and blob snapshots to a cooler storage tier if not accessed or modified for a period of time to optimize for cost.
+
+The following moves are possible:
+
+Hot to Cool
+
+Hot to Archive
+
+Cool to Archive
+
+Pricing
+
+The lifecycle management feature is available for General Purpose v2 (GPv2) accounts, blob storage accounts, Premium Block Blob storage accounts, and Azure Data Lake Storage Gen2 accounts.
+
+The lifecycle management feature is free of charge.
+
+The only charge is the regular operation cost for the Set Blob Tier API calls required for the move.
+
+
+
+Read More Here:
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-lifecycle-management-concepts?tabs=azure-portal
+
