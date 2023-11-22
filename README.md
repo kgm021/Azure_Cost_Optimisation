@@ -25,4 +25,5 @@ Below topics can be considered for cost optimisations
 19. choose PAAS services like, App service, SQL service, and Storage account
 20. Using Serverless - Azure function, logic apps, 
 21. Azure SPOT VM - for batch processing, Application should be able to handle unhandled desruption
-22. 
+22. Custome autoscaling logic - Start small, only scale when required
+23. 
